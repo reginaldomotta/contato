@@ -1,2 +1,2 @@
 # rocketseat-discover
- Repositório de estudo para a trilhar Discover da Rocketseat
+ Repositório de estudo para a trilha Discover da Rocketseat

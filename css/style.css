@@ -1,0 +1,33 @@
+/*Exemplos de formatação de estilos*/
+
+#unico-1{
+    color: blue;
+}
+
+.qualquer
+{
+    color: green;
+}
+
+p {
+    margin: 20px;
+    border: 1px solid purple;
+    color: red;
+    display: inline;
+}
+
+header {
+    border: 1px solid red;
+    padding: 60px;
+}
+
+h1 {
+    border: 1px solid green;
+    height: 60px;
+    display: inline;
+}
+
+span {
+    border: 1px solid pink;
+    display: block;
+}
