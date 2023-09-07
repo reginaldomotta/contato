@@ -64,13 +64,6 @@ body * {
   margin-top: 8px;
 }
 
-#resumo {
-  font-family: "Courier New", Courier, monospace;
-  color: var(--text-color);
-  font-style: italic;
-  font-size: 12px;
-}
-
 /* switch */
 #switch {
   position: relative;
