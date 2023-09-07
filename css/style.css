@@ -65,9 +65,10 @@ body * {
 }
 
 #resumo {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   color: var(--text-color);
   font-style: italic;
+  font-size: 12px;
 }
 
 /* switch */
